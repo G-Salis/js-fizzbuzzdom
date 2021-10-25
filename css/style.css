@@ -1,0 +1,33 @@
+body{
+  background-color: #083B4C;
+}
+
+body h1{
+  font-weight: 900;
+  font-size: 70px;
+  text-transform: uppercase;
+}
+
+.box {
+  height: 110px;
+  width: 110px;
+  text-transform: uppercase;
+  font-weight: 900;
+  background-color: #1389B2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.boxgreen{
+  background-color: #0BD6A1;
+}
+
+.boxorange{
+  background-color: #FFD166;
+}
+
+.boxred{
+  background-color: #F0466F;
+}
